@@ -1,0 +1,7 @@
+.change{
+    @apply bg-white/[0.15]  !important;
+}
+
+.z{
+    @apply z-50 relative !important;
+}
